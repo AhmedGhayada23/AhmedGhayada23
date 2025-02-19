@@ -13,8 +13,14 @@
 <img align="right" height="220" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"  />
 
 ###
-
-<p align="left">● 🏫 I am a Fresh Graduate <br>in Software and Database <br>Systems from the Faculty of Computer Engineering at<br> Al-Azhar University - Gaza.<br>● 🔭 I used to work at Insani Charity in Saudi Arabia.<br>● 🌱 I’m currently studying Flutter<br>● 🤔 I’m currently open for a new job opportunity,<br> this is MY RESUME<br>● 🤓 Always learning new things<br>● 🐼 Doing my best</p>
+<p align="left">
+  ● 🏫 I am a Fresh Graduate <br>in Software and Database <br>Systems from the Faculty of Computer Engineering at<br> Al-Azhar University - Gaza.<br>
+  ● 🔭 I used to work at Insani Charity in Saudi Arabia.<br>
+  ● 🌱 I’m currently studying Flutter<br>
+  ● 🤔 I’m currently open for a new job opportunity,<br> this is <a href="https://drive.google.com/file/d/1zVLigLcWSDvwl392Tel4FhmVFkmHOPwi/view?usp=drive_link" target="_blank">MY RESUME</a><br>
+  ● 🤓 Always learning new things<br>
+  ● 🐼 Doing my best
+</p>
 
 ###
 
