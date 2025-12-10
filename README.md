@@ -17,7 +17,7 @@
   ● 🏫 I am a Fresh Graduate <br>in Software and Database <br>Systems from the Faculty of Computer Engineering at<br> Al-Azhar University - Gaza.<br>
   ● 🔭 I used to work at Insani Charity in Saudi Arabia.<br>
   ● 🌱 I’m currently studying Flutter<br>
-  ● 🤔 I’m currently open for a new job opportunity,<br> this is <a href="https://drive.google.com/file/d/1PIdzbXYDrYtZI-QsAi4ph5L5olInqODs/view?usp=drive_open" target="_blank">MY RESUME</a><br>
+  ● 🤔 I’m currently open for a new job opportunity,<br> this is <a href="https://drive.google.com/file/d/1ZGXErF-a4SoVGmUVK9Q03LWVbRSmATmn/view?usp=sharing" target="_blank">MY RESUME</a><br>
   ● 🤓 Always learning new things<br>
   ● 🐼 Doing my best
 </p>
